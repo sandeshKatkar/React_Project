@@ -1,0 +1,8 @@
+.c{
+    background-color: rgb(14, 13, 97);
+}
+/* style={{backgroundColor:props.mode==='dark'?'rgb(10, 8, 95)':'white',color:props.mode==='light'?'rgb(10, 8, 95)':'white'}} */
+
+mark{
+    background-color: yellow;
+}
